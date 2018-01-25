@@ -4,22 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Recursos Java</title>
+<title>Página de autenticação</title>
 </head>
 <body>
-	<h3>Recursos Java</h3>
-	
-	<table>
-		<tr>
-			<td><a href="pages/capturarExcecoes.jsp">Capturar Exceções</a></td>
-		</tr>
-		
-		<tr>
-			<td><a href="pages/acessoSistema.jsp">Acessar Sistemas</a></td>
-		</tr>
-	</table>
-	
-	
-	
+
+	<h1> Página de autenticação de usuário</h1>
 </body>
 </html>
